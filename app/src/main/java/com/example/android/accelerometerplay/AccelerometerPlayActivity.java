@@ -60,7 +60,7 @@ public class AccelerometerPlayActivity extends Activity {
     private Display mDisplay;
     private WakeLock mWakeLock;
 
-    /** Calledwhen the activity is first created. */
+    /** Called          when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
